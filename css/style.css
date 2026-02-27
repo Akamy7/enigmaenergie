@@ -446,12 +446,12 @@ a:hover {
   overflow-y: auto;
 }
 .side-widget .logo {
-  width: 150%;
+  width: 100%;
   display: block;
   margin-bottom: 40px;
 }
 .side-widget .logo img {
-  height: 60px;
+  height: 40px;
 }
 .side-widget .show-mobile {
   display: none;
